@@ -18,5 +18,3 @@ def gera_numeros():
     numeros_gerados.append(termo_qualquer)
 
     return numeros_gerados
-
-print(gera_numeros())
